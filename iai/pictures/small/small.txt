@@ -1,0 +1,14 @@
+                           Cost  Expanded
+Function                                 
+wastar manhattanHeuristic   652       756
+astar myHeuristic2          632       794
+astar myHeuristic3          636       805
+astar myHeuristic1          632       808
+wastar myHeuristic1         676       809
+wastar myHeuristic2         684       823
+wastar myHeuristic3         700       843
+astar manhattanHeuristic    632       917
+dfs nullHeuristic           852      1147
+bi nullHeuristic            632      1243
+bfs nullHeuristic           632      1458
+ucs nullHeuristic           632      1458
